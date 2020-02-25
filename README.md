@@ -1,3 +1,6 @@
+![./awesomeroku.png](logo)
+
+
 # Awesome Roku
 
 a home for Roku, Brightscript, and SceneGraph resources
