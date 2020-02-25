@@ -1,4 +1,4 @@
-![./awesomeroku.png](logo)
+![logo](./awesomeroku.png)
 
 
 # Awesome Roku
