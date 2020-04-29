@@ -52,7 +52,7 @@ a home for Roku, Brightscript, and SceneGraph resources
 
 [Ukor](https://github.com/willowtreeapps/ukor) - A build tool for Roku projects  
 [burp](https://github.com/georgejecook/burp) - Script processing utility for Roku brightscript projects  
-[sgbarag/brs](https://github.com/sjbarag/brs) - An interpreter for the BrightScript language that runs on non-Roku platforms. (\*not really a build tool but it fits here best)  
+[sjbarag/brs](https://github.com/sjbarag/brs) - An interpreter for the BrightScript language that runs on non-Roku platforms. (\*not really a build tool but it fits here best)  
 [rounded-rect-9patch](https://github.com/slheavner/rounded-rect-9patch) - CLI for generating rounded rectangle 9patches, create with Roku in mind
 
 ## Testing
