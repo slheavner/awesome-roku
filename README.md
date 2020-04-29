@@ -2,6 +2,7 @@
 
 Join the Roku Community on  
 <a href="https://join.slack.com/t/rokudevelopers/shared_invite/enQtMzgyODg0ODY0NDM5LTM0N2UzYWExOGVlMTRlNGI2OTQ0ODA0Y2ZmMzFhZmMwMWEzNWI2MGM1YzFkZDVkZDNiNjYzYTgwODczNGQ2NDY"><img src="https://assets.brandfolder.com/pl546j-7le8zk-btwjnu/view@2x.png?v=1547165150" alt="drawing" width="250"/></a>
+
 # Awesome Roku
 
 a home for Roku, Brightscript, and SceneGraph resources
@@ -46,7 +47,8 @@ a home for Roku, Brightscript, and SceneGraph resources
 
 [eslint-plugin-roku](https://github.com/RokuRoad/eslint-plugin-roku) - eslint plugin for linting brightscript files  
 [Wist](https://willowtreeapps.github.io/wist/) - A linter for brightscript  
-[scenegraph-schema](https://github.com/slheavner/scenegraph-schema) - A tool to generate an xml schema for a SceneGraph project to work with xml validation extensions
+[scenegraph-schema](https://github.com/slheavner/scenegraph-schema) - A tool to generate an xml schema for a SceneGraph project to work with xml validation extensions  
+[brighterscript](https://github.com/rokucommunity/brighterscript) - A superset of Roku's BrightScript language. Compiles to standard BrightScript.
 
 ## Build Tools
 
@@ -58,13 +60,13 @@ a home for Roku, Brightscript, and SceneGraph resources
 ## Testing
 
 [Unit Test Framework](https://devtools.web.roku.com/#unit-test-framework-tool) - Write Unit tests for Brightscript and Scenegraph components  
-[Rooibos](https://github.com/georgejecook/rooibos) - simple, flexible, fun brightscript test framework for roku scenegraph apps  
+[Rooibos](https://github.com/georgejecook/rooibos) - simple, flexible, fun brightscript test framework for roku scenegraph apps; includes code-coverage, paremeterized testing, stubs, mocks and more  
 [Roku Channel Automation](https://devtools.web.roku.com/#roku-channel-automation) - Automation server using the ECP standard  
 [Rokul Runnings](https://github.com/willowtreeapps/rokul-runnings) - a client TypeScript/Javascript library UI Automation, using the ECP standard, standalone.
 
 ## Frameworks
 
-[maestro](https://github.com/georgejecook/maestro) - A development platform for building roku channels in brighterscript  
+[maestro](https://github.com/georgejecook/maestro) - A development platform for building roku channels in brighterscript in a hyper efficient and maintainable way, by leveraging brighterscript, and MVVM binding syntax, similar to Flex, Xamarin and Angular frameworks  
 [brighterscript](https://github.com/rokucommunity/brighterscript) - A superset of Roku's BrightScript language. Compiles to standard BrightScript.
 
 ## Libraries
