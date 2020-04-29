@@ -1,3 +1,7 @@
+![logo](./awesomeroku.png)
+
+Join the Roku Community on  
+<a href="https://join.slack.com/t/rokudevelopers/shared_invite/enQtMzgyODg0ODY0NDM5LTM0N2UzYWExOGVlMTRlNGI2OTQ0ODA0Y2ZmMzFhZmMwMWEzNWI2MGM1YzFkZDVkZDNiNjYzYTgwODczNGQ2NDY"><img src="https://assets.brandfolder.com/pl546j-7le8zk-btwjnu/view@2x.png?v=1547165150" alt="drawing" width="250"/></a>
 # Awesome Roku
 
 a home for Roku, Brightscript, and SceneGraph resources
