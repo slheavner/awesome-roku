@@ -70,6 +70,7 @@ a home for Roku, Brightscript, and SceneGraph resources
 
 [maestro](https://github.com/georgejecook/maestro) - A development platform for building roku channels in brighterscript in a hyper efficient and maintainable way, by leveraging brighterscript, and MVVM binding syntax, similar to Flex, Xamarin and Angular frameworks  
 [brighterscript](https://github.com/rokucommunity/brighterscript) - A superset of Roku's BrightScript language. Compiles to standard BrightScript.
+[roact](https://github.com/Roblox/roact) - A React-inspired design pattern for building UI components.
 
 ## Libraries
 
