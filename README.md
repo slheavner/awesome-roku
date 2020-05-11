@@ -47,11 +47,11 @@ a home for Roku, Brightscript, and SceneGraph resources
 
 [eslint-plugin-roku](https://github.com/RokuRoad/eslint-plugin-roku) - eslint plugin for linting brightscript files  
 [Wist](https://willowtreeapps.github.io/wist/) - A linter for brightscript  
-[scenegraph-schema](https://github.com/slheavner/scenegraph-schema) - A tool to generate an xml schema for a SceneGraph project to work with xml validation extensions  
-[brighterscript](https://github.com/rokucommunity/brighterscript) - A superset of Roku's BrightScript language. Compiles to standard BrightScript.
+[scenegraph-schema](https://github.com/slheavner/scenegraph-schema) - A tool to generate an xml schema for a SceneGraph project to work with xml validation extensions
 
 ## Build Tools
 
+[brighterscript](https://github.com/rokucommunity/brighterscript) - A superset of Roku's BrightScript language. Compiles to standard BrightScript.  
 [Ukor](https://github.com/willowtreeapps/ukor) - A build tool for Roku projects  
 [burp](https://github.com/georgejecook/burp) - Script processing utility for Roku brightscript projects  
 [sjbarag/brs](https://github.com/sjbarag/brs) - An interpreter for the BrightScript language that runs on non-Roku platforms. (\*not really a build tool but it fits here best)  
