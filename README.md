@@ -82,6 +82,7 @@ a home for Roku, Brightscript, and SceneGraph resources
 [roku-fetch](https://github.com/briandunnington/roku-fetch) - A `fetch` implementation for Roku
 [roku-requests](https://github.com/bvisin/roku-requests/) - A *python-inspired* HTTP request implementation for Roku
 [Redoku](https://github.com/briandunnington/Redoku) - A `Redux` implementation for Roku
+[WebSockets](https://github.com/SuitestAutomation/BrightWebSocket) - A ScreneGraph websocket client library written in BrightScript.
 
 ### Vendors
 
