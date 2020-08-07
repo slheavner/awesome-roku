@@ -77,10 +77,24 @@ a home for Roku, Brightscript, and SceneGraph resources
 ### Community
 
 [rLog](https://github.com/georgejecook/rLog) - Logging for Roku  
-[rocute](https://github.com/willowtreeapps/rocute) - beautiful ui components for roku development
+[rocute](https://github.com/willowtreeapps/rocute) - Beautiful UI Components for Roku Development
+[roku-promise](https://github.com/briandunnington/roku-promise) - A `promise` implementation for Roku
+[roku-fetch](https://github.com/briandunnington/roku-fetch) - A `fetch` implementation for Roku
+[roku-requests](https://github.com/bvisin/roku-requests/) - A *python-inspired* HTTP request implementation for Roku
+[Redoku](https://github.com/briandunnington/Redoku) - A `Redux` implementation for Roku
+[WebSockets](https://github.com/SuitestAutomation/BrightWebSocket) - A ScreneGraph websocket client library written in BrightScript.
 
 ### Vendors
 
 [SceneGraph Developer Extensions](https://devtools.web.roku.com/#scene-graph-developer-extensions) - Library of Roku supported components and patterns  
 [Google IMA DAI SDK](https://developers.google.com/interactive-media-ads/docs/sdks/roku/download) - Google SDK for ads  
-[Adobe Marketing Cloud Media SDK](https://github.com/Adobe-Marketing-Cloud/media-sdks/tree/master/sdks/roku) - title
+[Adobe Marketing Cloud Media SDK](https://github.com/Adobe-Marketing-Cloud/media-sdks/tree/master/sdks/roku)
+
+## Useful Tools & Resources
+
+### Tools
+[Roku Dashboard](http://www.myfreeapps.com/roku-dashboard) - Automatically discover and manage Roku's on your local network
+[Nine Patch Editor](http://weblookandfeel.com/nine-patch-editor/) - A Java-based GUI for editing nine patch images
+[JWT Decoder](http://jwt.calebb.net/) - A tool for verifying JWT tokens
+[JSON Diff](http://www.jsondiff.com/) - A tool for comparing two JSON objects
+[Roku Like A Hurricane](https://rokulikeahurricane.io/) - A blog about Roku development by [Brian Dunnington](https://github.com/briandunnington)
